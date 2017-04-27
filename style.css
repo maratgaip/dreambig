@@ -40,6 +40,6 @@ body {
     display:block;
     background-color:yellow;
     position:relative;
-
     transition: all .3s;
+    color :red;
 }
